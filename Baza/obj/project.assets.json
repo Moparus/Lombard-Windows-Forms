@@ -289,11 +289,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mzpot\\Desktop\\CV\\Projekty\\Lombard\\Baza\\Baza\\Baza.csproj",
+      "projectUniqueName": "C:\\Users\\mzpot\\Desktop\\CV\\Projekty\\.Lombard\\Baza\\Baza\\Baza.csproj",
       "projectName": "Baza",
-      "projectPath": "C:\\Users\\mzpot\\Desktop\\CV\\Projekty\\Lombard\\Baza\\Baza\\Baza.csproj",
+      "projectPath": "C:\\Users\\mzpot\\Desktop\\CV\\Projekty\\.Lombard\\Baza\\Baza\\Baza.csproj",
       "packagesPath": "C:\\Users\\mzpot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mzpot\\Desktop\\CV\\Projekty\\Lombard\\Baza\\Baza\\obj\\",
+      "outputPath": "C:\\Users\\mzpot\\Desktop\\CV\\Projekty\\.Lombard\\Baza\\Baza\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

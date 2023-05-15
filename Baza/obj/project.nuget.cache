@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Akfi+UdTezCCfhi+Bnn+zhLNsAG7xrS3NHqGVRpMHG+waww7YBFf2PO62lfdbNV3LIp008a0HxqDePfuQhEoWw==",
+  "dgSpecHash": "i6c0VwhoLbWoyhXkWFm6m/l0AwwuYa97Y6Ujddbk8Rx6De8m2mKLCtz7T1jSeBrDYZIivy+prvadFAKOXRpXmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mzpot\\Desktop\\CV\\Projekty\\Lombard\\Baza\\Baza\\Baza.csproj",
+  "projectFilePath": "C:\\Users\\mzpot\\Desktop\\CV\\Projekty\\.Lombard\\Baza\\Baza\\Baza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mzpot\\.nuget\\packages\\microsoft.data.sqlite\\6.0.3\\microsoft.data.sqlite.6.0.3.nupkg.sha512",
     "C:\\Users\\mzpot\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.3\\microsoft.data.sqlite.core.6.0.3.nupkg.sha512",
